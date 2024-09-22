@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/github/license/MrTech-AK/Analog.OnlineClock?style=for-the-badge&color=orange"><br>
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-MrTech.AK-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Version-v1.0-cyan?style=flat-square">
   </p>
 
