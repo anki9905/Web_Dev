@@ -32,14 +32,10 @@ Overall, the Analog Clock project on GitHub is a testament to the beauty of simp
 # Star This Repository
 > This project took me 3 Days to finish! Your one star inspires me to create more projects! So, Star This Repository!
 
-<h1 align="center">Coded with Love by MrTech-AK</h1>
+<h1 align="center">Coded with Love</h1>
 
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the Analog.ClockOnline repository is protected under copyright law. This repository, authored by Akshat [MrTech-AK], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
-
-You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
-```go
 1. You may not use the contents of this repository for illegal or unethical activities.
 2. You may not misrepresent the origin or authorship of the contents of this repository.
 3. You may not hold the author or contributors liable for any damages or legal issues arising from the use or misuse of the contents of this repository.
